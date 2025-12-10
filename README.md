@@ -11,7 +11,7 @@ iamstudybox00@gmail.com
 https://github.com/MerrydayPrject/final-repo-back
 
 **배포 링크**
-https://www.marryday.co.kr/
+https://www.marryday.co.kr
 
 ---
 
